@@ -1,0 +1,26 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Fav tests should, render when empty 1`] = `
+<div>
+  <div
+    class="sc-bdfBwQ bWYwLj"
+  />
+</div>
+`;
+
+exports[`Fav tests should, render when not empty 1`] = `
+<div>
+  <div
+    class="sc-bdfBwQ bWYwLj"
+  >
+    <img
+      alt="http://mock_image/1.jpg"
+      class="sc-gsTCUz ivfovS"
+      data-id="1"
+      data-testid="galery-image"
+      loading="lazy"
+      src="http://mock_image/1.jpg"
+    />
+  </div>
+</div>
+`;
